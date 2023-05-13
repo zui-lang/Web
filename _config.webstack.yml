@@ -96,7 +96,7 @@ hotTools:
     description: 建开发环境、实时协作、托管网络应用
   - name: Render
     url: https://render.com/
-    img: https://user-images.githubusercontent.com/73590999/199271697-90d1c77c-b973-4540-a188-50422f423100.png
+    img: https://render.com/favicon.ico
     description: 构建和运行您的所有应用程序和网站
   - name: Docker Hub
     url: https://hub.docker.com/
