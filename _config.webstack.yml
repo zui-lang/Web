@@ -133,6 +133,10 @@ domain:
     url: https://www.dnspod.cn/
     img: https://www.dnspod.cn/favicon.ico
     description: 国内域名托管商
+  - name: 阿里云
+    url: https://www.aliyun.com/
+    img: https://th.bing.com/th/id/OIP.GQilyxAvafi49DVzO2YU_AHaHa?pid=ImgDet&rs=1
+    description: 国内域名托管商
   - name: eu.org
     url: https://nic.eu.org/
     img: https://nic.eu.org/favicon.ico
